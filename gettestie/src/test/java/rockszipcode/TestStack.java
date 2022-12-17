@@ -1,4 +1,4 @@
-package rocks.zipcode;
+package rockszipcode;
 
 import static org.junit.Assert.*;
 import java.util.Stack;
