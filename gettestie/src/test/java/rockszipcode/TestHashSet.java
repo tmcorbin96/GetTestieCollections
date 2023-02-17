@@ -18,7 +18,7 @@ public class TestHashSet {
     }
 
     @Test
-    public void HashSetTest() {
+    public void hashSetTest() {
         address.add(new Address("Delvin St.", "Rockgin", "1-3456", "Austria"));
         Assert.assertTrue(address.size() == 4);
     }
